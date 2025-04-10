@@ -1,7 +1,7 @@
 # Code Repository for:
 **"Application of machine learning and complex network measures to an EEG dataset from ayahuasca experiments"**  
 Published in *PLOS ONE*  
-[DOI:(https://doi.org/10.1371/journal.pone.0277257)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.027725)
+[DOI: 10.1371/journal.pone.0277257](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277257)
 
 ## Overview
 This repository contains the code used in our study combining complex network analysis and machine learning techniques to investigate EEG brain activity under the influence of ayahuasca.
